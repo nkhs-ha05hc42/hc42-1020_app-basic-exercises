@@ -11,3 +11,6 @@
    export * from "./8-2/q8-2-2Controller.mjs"
    export * from "./8-2/q8-2-3Controller.mjs"
    export * from "./8-2/q8-2-4Controller.mjs"
+   export * from "./8-2/q8-2-4Controller.mjs"
+   export * from "./8-3/q8-3-1Controller.mjs"
+   export * from "./8-3/q8-3-2Controller.mjs"
