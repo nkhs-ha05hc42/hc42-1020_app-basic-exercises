@@ -9,9 +9,6 @@ const post8_1_2 = (req, res) => {
     )
 }
 
-
-
-
 export const q8_2Controller = {
     post8_1_2,
 }
